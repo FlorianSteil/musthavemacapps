@@ -1,4 +1,4 @@
-# Must have Mac Apps :dizzy:
+# :dizzy: Must have Mac Apps :dizzy:
 
 ## [CheetCheet](https://www.mediaatelier.com/CheatSheet/?lang=de) :smirk:
 
@@ -82,7 +82,7 @@ Einfach zwei mal cmd+c drücken und der ausgewählte Text wird automatisch über
 
 ---
 
-## [EasyRes](Ehttps://apps.apple.com/de/app/easyres/id688211836?l=en&mt=12) :computer:
+## [EasyRes](https://apps.apple.com/de/app/easyres/id688211836?l=en&mt=12) :computer:
 
 Der einzige Mac-Schnellwechsler für Auflösungen mit vollständig Vorschau. Wähle schnell und einfach eine Auflösungen für jeden angeschlossenen Bildschirm über die Menüleiste oder das Notification Center aus. Besonders bei externen Monitoren/Beamern ein must have!
 
