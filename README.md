@@ -1,7 +1,5 @@
 # Must have Mac Apps :dizzy:
 
----
-
 ## [CheetCheet](https://www.mediaatelier.com/CheatSheet/?lang=de) :smirk:
 
 CheatSheet (zu Deutsch "Spickzettel") gibt in jeder beliebigen App auf Tastendruck eine Liste mit allen Tastenkürzeln, die man im entsprechenden Programm nutzen kann. Eine sehr hilfreiche Sache, wenn man gerne mit Shurtcuts arbeitet. Nur die ⌘-Taste etwas länger gedrückt halten um eine Liste aller Tastaturkürzel zu erhalten. Einfacher geht es nicht mehr.
