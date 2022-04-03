@@ -127,11 +127,17 @@ TextMate ist ein Leistungsstarker und anpassbarer Texteditor mit Unterstützung 
 
 ---
 
-## [ToothFairy](https://macromates.com) :headphones:
+## [ToothFairy](https://apps.apple.com/de/app/toothfairy/id1191449274?l=en&mt=12) :headphones:
 
 Verbinde AirPods (oder andere Bluetooth Kopfhörer) mit einem einzigen Klick oder Tastendruck mit deinem Mac.
 
 AirPods sind toll, aber sie funktionieren mit Macs nicht ganz so reibungslos wie mit iPhones. Man kann nicht auf den ersten Blick erkennen, ob der Ton über die AirPods oder den eingebauten Lautsprecher des Macs wiedergegeben wird, man muss sich in ein Bluetooth-Untermenü begeben, um eine Verbindung herzustellen, und dann muss man wieder ins Menü zurückkehren, um zu sehen, wann die AirPods einsatzbereit sind. ToothFairy vereinfacht dies: Klicken Sie einfach auf ein Symbol in der Menüleiste (oder drücken Sie einen Hotkey), um zu den AirPods zu wechseln, und das Symbol zeigt immer an, ob sie verbunden sind.
+
+## Alternative (Besser?) :warning:
+
+## [Toothpicks](https://apps.apple.com/de/app/toothpicks/id998361254?l=en&mt=12) :headphones:
+
+Verbinde AirPods (oder andere Bluetooth Kopfhörer) mit einem einzigen Klick oder Tastendruck mit deinem Mac. Sehe den Akkustand und lege short cuts für bestimmte Geräte fest.
 
 ---
 
