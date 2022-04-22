@@ -178,3 +178,11 @@ Wipr blockiert alle Werbeanzeigen, Tracker, Kryptowährungs-Miner, EU-Cookie- un
 ## [Parallels](https://www.parallels.com/de/) :sparkles:
 
 Ein schnelles, einfaches und leistungsstarkes Programm, um Windows/Linux auf einem Intel- oder Apple M1-Mac auszuführen und das ohne Neustart. Beinhaltet mehr als 30 Tools zur Vereinfachung der täglichen Aufgabenabwicklung auf Mac und Windows.
+
+---
+
+## [Grammer checker](https://apps.apple.com/de/app/languagetool-grammar-checker/id1534275760?l=en) :sparkles:
+
+Checke deine Rechtschreibung und Satzbau in jedem Bowser oder am Mac.
+
+:iphone: _Auch für IOS & IPadOs verfügbar_
